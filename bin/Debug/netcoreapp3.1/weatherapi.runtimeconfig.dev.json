@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/suryaanu/.dotnet/store/|arch|/|tfm|",
+      "/Users/suryaanu/.nuget/packages"
+    ]
+  }
+}
